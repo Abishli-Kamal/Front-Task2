@@ -1,0 +1,23 @@
+
+
+.main_div{
+    width: 1200px;
+
+}
+
+.img_div{
+   
+    margin-left: 350px;
+    text-align: center;
+    border-bottom: 2px solid aqua ;
+
+}
+.content{
+    margin-left: 350px;
+    margin-top: 10px;
+    
+}
+.content b{
+    color: orangered;
+}
+
